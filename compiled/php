@@ -1,0 +1,5 @@
+<?php
+
+echo "php says Hello world\n";
+
+passthru("/usr/local/bin/python /Users/clayton/Documents/Dev/hello-world-inception/compiled/python");

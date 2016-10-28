@@ -1,0 +1,5 @@
+import os
+
+print "python says Hello world"
+os.system("/usr/bin/perl /Users/clayton/Documents/Dev/hello-world-inception/compiled/perl")
+

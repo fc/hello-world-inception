@@ -1,0 +1,3 @@
+
+print "perl says Hello world\n";
+system("/Users/clayton/Documents/Dev/hello-world-inception/compiled/c");
