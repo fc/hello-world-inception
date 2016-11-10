@@ -8,6 +8,7 @@ public class HelloWorldJava {
 
     public static void main(String[] args) {
         System.out.println("Java says Hello world");
+
         String cmd = "";
         if (cmd == null || cmd.isEmpty()) {
             return;
@@ -24,7 +25,7 @@ public class HelloWorldJava {
                 System.out.println(line);
             }
         } catch (IOException error) {
-            System.out.println("Error...");
+            System.out.println("Java error...");
         }
     }
 
